@@ -27,3 +27,18 @@ Key Advantages of Using Godot:
 *    Flexible Scripting: With Godot’s scripting language, GDScript, as well as support for C# and visual scripting, development is intuitive and highly customizable, giving me the control I need to fine-tune gameplay mechanics.
 
 *    Active Community: Godot has a vibrant community that offers resources, tutorials, and plugins that make it easier to develop and polish the game.
+
+
+<details>
+<summary>NES Game images</summary>
+<img src="images/1.jpg"></img>
+<img></img>
+<img></img>
+<img></img>
+<img></img>
+<img></img>
+<img></img>
+<img></img>
+<img></img>
+<img></img>
+</details>
