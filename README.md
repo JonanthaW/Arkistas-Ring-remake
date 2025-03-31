@@ -28,17 +28,17 @@ Key Advantages of Using Godot:
 
 *    Active Community: Godot has a vibrant community that offers resources, tutorials, and plugins that make it easier to develop and polish the game.
 
+# NES GAME IMAGES
 
 <details>
-<summary>NES Game images</summary>
 <img src="images/1.jpg"></img>
-<img></img>
-<img></img>
-<img></img>
-<img></img>
-<img></img>
-<img></img>
-<img></img>
-<img></img>
-<img></img>
+<img src="images/2.png"></img>
+<img src="images/3.webp"></img>
+<img src="images/4.webp"></img>
+<img src="images/5.jpg"></img>
+<img src="images/6.webp"></img>
+<img src="images/7.jpg"></img>
+<img src="images/8.jpg"></img>
+<img src="images/9.jpg"></img>
+<img src="images/10.webp"></img>
 </details>
